@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:  Blockchain and Cloud Projects
-- 🌱 I’m currently learning:  AWS and GCP
+- 🌱 I’m currently learning: Google Cloud
 - 👯 I’m looking to collaborate on:  blockchain Project
 - 🤔 I’m looking for help with:  Cloud Computing
 - 💬 Ask me about anything. I ready to help
