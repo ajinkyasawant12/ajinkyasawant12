@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajinkya</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ajinkya Sawant</h1>
 <h3 align="center">My best experience is to develop the idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
 
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEJOrhwvrY/_HsOhB_neJ3F336wYI_k0Q/view?utm_content=DAEJOrhwvrY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+- :zap: Fun fact: I love to meet new pepole and explore new things <br>
+
 
 <h3 align="left">Social Presence:</h3>
 <p align="left">
@@ -26,7 +28,8 @@
 </p>
 
 
-<h3 align="left">Interests:</h3>
+
+<h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
 <p align="center"> 
     <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
