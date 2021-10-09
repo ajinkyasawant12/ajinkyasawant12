@@ -7,15 +7,15 @@
 
 - 👨‍💻 All about me is available at [My Website](https://ajinkya-sawant.netlify.app/)
 
-- 🌱 I’m currently learning **AWS and Microservices**
+- 🌱 I’m currently learning **AWS and DevOps**
 
-- 👯 I’m looking to collaborate on **Cloud Automation and Microservices**
+- 👯 I’m looking to collaborate on **Cloud Automation and DevOps**
 
 - 💬 Ask me about **AWS, Automation and Python**
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEJOrhwvrY/_HsOhB_neJ3F336wYI_k0Q/view?utm_content=DAEJOrhwvrY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEmB-fZNxI/Gtt9uGvBE1j3aOX9nb2nqg/view?utm_content=DAEmB-fZNxI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - :zap: Fun fact: I love to meet new pepole and explore new things <br>
 
@@ -23,12 +23,11 @@
 <h3 align="left">Social Presence:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ajinkya-sawant-4b9784188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkya-sawant-4b9784188" height="30" width="40" /></a>
-    <a href="https://medium.com/@ajinkya924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajinkya924" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/ajinkya924" target="blank"><img align="center" src="https://github.com/AJINKYA924/AJINKYA924/blob/master/assets/HackerRank_logo.svg" alt="ajinkya924" height="30" width="40" /></a>
     <a href="https://www.qwiklabs.com/public_profiles/539e7b64-c32a-4fe1-baed-69b565e9c4d9" target="blank"><img align="center" src="https://github.com/AJINKYA924/AJINKYA924/blob/master/assets/qwiklabs.svg" alt="ajinkya924" height="30" width="40" /></a>
-    <a href="https://www.credly.com/users/ajinkya-sawant.990be6c2/badges" target="blank"><img align="center" src="https://api.iconify.design/simple-icons:acclaim.svg" alt="ajinkya924" height="30" width="40" /></a>
+    <a href="https://twitter.com/theajinkya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://instagram.com/theajinkya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
@@ -40,6 +39,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
