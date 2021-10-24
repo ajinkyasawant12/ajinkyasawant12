@@ -56,5 +56,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajinkyasawant"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajinkyasawant" /></a></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkya924&show_icons=true&theme=dark&locale=en" alt="ajinkya924" /></p>
