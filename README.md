@@ -53,6 +53,3 @@
     <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="Canva" width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Atlassian jira" width="40" height="40"/> </a>
  </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ajinkyasawant"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajinkyasawant" /></a></p><br>
