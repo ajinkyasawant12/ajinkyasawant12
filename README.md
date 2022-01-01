@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ajinkya Sawant</h1>
 <h3 align="center">My best experience is to develop the idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
 
-<p align="left"> <img src="https://github.com/AJINKYA924/AJINKYA924/blob/master/assets/Banner%201.1.gif" alt="AJINKYA924" /> </p>
-
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
 
 - 👨‍💻 All about me is available at [My Website](https://ajinkya-sawant.netlify.app/)
