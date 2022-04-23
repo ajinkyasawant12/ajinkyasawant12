@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ajinkya Sawant</h1>
 <h3 align="center">My best experience is to develop the idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
 
+<img align="right" width="440"  height="420" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/d1e2357ee2dfe86e979776c50a710e34485081ad/undraw_on_the_office_fbfs.svg"/>
+
+<h3 align="left">About Me:</h3>
+
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
 
 - 👨‍💻 All about me is available at [My Website](https://ajinkya-sawant.netlify.app/)
@@ -15,7 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAE1nmCGoL0/S5BsSFqJBGXXGNlp1AW6tQ/view?utm_content=DAE1nmCGoL0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-- :zap: Fun fact: I love to meet new pepole and explore new things <br>
+- :zap: Fun fact: I love to meet new pepole and explore new thing
 
 
 <h3 align="left">Social Presence:</h3>
@@ -28,7 +32,7 @@
 </p>
 
 
-<h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
+<h3 align="left">Technologies and Tools I use:hammer_and_wrench::</h3>
 <p align="center"> 
     <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/AJINKYA924/AJINKYA924/blob/master/assets/aws.svg" alt="aws" width="40" height="40"/> </a> 
