@@ -28,7 +28,6 @@
     <a href="https://www.hackerrank.com/ajinkya924" target="blank"><img align="center" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/HackerRank_logo.svg" alt="ajinkya924" height="30" width="40" /></a>
     <a href="https://www.qwiklabs.com/public_profiles/539e7b64-c32a-4fe1-baed-69b565e9c4d9" target="blank"><img align="center" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/qwiklabs.svg" alt="ajinkya924" height="30" width="40" /></a>
     <a href="https://twitter.com/theajinkya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theajinkya12" height="30" width="40" /></a>
-<a href="https://instagram.com/theajinkya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theajinkya12" height="30" width="40" /></a>
 </p>
 
 
