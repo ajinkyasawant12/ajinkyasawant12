@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFTru-i4Ak/AIgMHuYHLfa5pc_-tMOYtw/view?utm_content=DAFTru-i4Ak&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFdwJxQeQ0/PNY-dtwZrqcd5da6KsUAtg/view?utm_content=DAFdwJxQeQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - :zap: Fun fact: I love to meet new pepole and explore new thing
 
