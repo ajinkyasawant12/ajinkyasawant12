@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ajinkya Sawant</h1>
-<h3 align="center">My best experience is to develop the idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
+<h3 align="center">My best experience is to develop an idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
 
 <img align="right" align="center" width="380"  height="460" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/About.png"/>
 
@@ -48,10 +48,7 @@
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  
     <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/prometheus.png" alt="Prometheus " width="40" height="40"/> </a>
     <a href="https://www.zabbix.com/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/zabbix_logo.png" alt="Zabbix" width="40" height="40"/> </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Atlassian jira" width="40" height="40"/> </a> 
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>   
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>    
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
  </p>
