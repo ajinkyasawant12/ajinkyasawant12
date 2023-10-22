@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ajinkya Sawant</h1>
 <h3 align="center">My best experience is to develop an idea that fully addresses the need of problems with simplicity and innovation at the core</h3>
 
-<img align="right" align="center" width="380"  height="460" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/About.png"/>
+<img align="right" align="center" width="380"  height="420" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/About.png"/>
 
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
-
-- 👨‍💻 All about me is available at [My Website](https://ajinkya-sawant.netlify.app/)
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFrUCdnElE/nHnkdt1JQ3akrJ-OmGROUQ/view?utm_content=DAFrUCdnElE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFx-WT3VHQ/LKEHNDnGA-eyzxBPtsggkw/view?utm_content=DAFx-WT3VHQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h3 align="left">Social Presence:</h3>
