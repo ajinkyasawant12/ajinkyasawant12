@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
 
-- 🌱 I’m currently learning **Cloud and DevOps**
-
 - 👯 I’m looking to collaborate on **Cloud Automation and DevOps**
 
 - 💬 Ask me about **Google-Cloud, Automation and Python**
