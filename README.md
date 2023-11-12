@@ -27,7 +27,7 @@
 
 <h3 align="left">Technologies and Tools I use:hammer_and_wrench::</h3>
 <p align="center"> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/AWS-Logo.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
