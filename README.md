@@ -11,13 +11,12 @@
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFx-WT3VHQ/LKEHNDnGA-eyzxBPtsggkw/view?utm_content=DAFx-WT3VHQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAF4iCsVApY/K6YDI1ZB6d4z6I91RviF3Q/view?utm_content=DAF4iCsVApY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h3 align="left">Social Presence:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ajinkya-sawant-4b9784188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkya-sawant-4b9784188" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/ajinkya924" target="blank"><img align="center" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/HackerRank_logo.svg" alt="ajinkya924" height="30" width="40" /></a>
     <a href="https://www.qwiklabs.com/public_profiles/539e7b64-c32a-4fe1-baed-69b565e9c4d9" target="blank"><img align="center" src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill%20assets/qwiklabs.svg" alt="ajinkya924" height="30" width="40" /></a>
     <a href="https://twitter.com/theajinkya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theajinkya12" height="30" width="40" /></a>
 </p>
