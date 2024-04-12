@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAF4iCsVApY/K6YDI1ZB6d4z6I91RviF3Q/view?utm_content=DAF4iCsVApY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAGCMvitYwE/dOfoU8-jJhAexh-rXXztAQ/view?utm_content=DAGCMvitYwE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h3 align="left">Social Presence:</h3>
