@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on **Cloud Computing and DevOps**
+- 🔭 I’m currently working on **DevOps Engineer**
 
 - 👯 I’m looking to collaborate on **Cloud Automation and DevOps**
 
