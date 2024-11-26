@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sawantajinkya924@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://ajinkyasawant12.github.io/ajinkyasawant12/assets/Ajinkya_Sawant_Resume_V16.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/Ajinkya_Sawant_Resume_V17.pdf)
 
 
 <h3 align="left">Social Presence:</h3>
