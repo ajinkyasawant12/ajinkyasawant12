@@ -38,8 +38,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  
     <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/prometheus.png" alt="Prometheus " width="40" height="40"/> </a>
-    <a href="https://www.zabbix.com/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/zabbix_logo.png" alt="Zabbix" width="40" height="40"/> </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>    
+    <a href="https://www.zabbix.com/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/zabbix_logo.png" alt="Zabbix" width="40" height="40"/> </a>  
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
  </p>
