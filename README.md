@@ -20,9 +20,8 @@
 </p>
 
 
-<h3 align="left">Technologies and Tools I use:hammer_and_wrench::</h3>
+<h3 align="left">Technologies and Tools I use:</h3>
 <p align="center"> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/AWS-Logo.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
@@ -34,8 +33,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/ansiblelogo.png" alt="Ansible" width="40" height="40"/> </a>
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  
     <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/prometheus.png" alt="Prometheus " width="40" height="40"/> </a>
     <a href="https://www.zabbix.com/" target="_blank"> <img src="https://github.com/ajinkyasawant12/ajinkyasawant12/blob/master/assets/skill_assets/zabbix_logo.png" alt="Zabbix" width="40" height="40"/> </a>  
